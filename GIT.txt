@@ -1,0 +1,38 @@
+
+commit
+
+Why use version control?
+	= track who made which change and why.
+	= revert to previous versions of code
+	= avoid overwriting
+	= productivity
+
+ Git Features:
+	= distributed development
+	= branching and merging
+	= lightweight and fast
+	= open source
+	= integrity with SHA- 1 hashing
+
+Git		: The version Control Tool
+GitHub	: Service provided by Microsoft, used for open source. (Git ma locally gareko code chai git-hub ma host hunxa)
+GitLab	: Git Hosting + CI/CD Pipeline + DevOps platform, can be self- hosted or cloud-based.
+
+Real World Use Cases: 
+	= software development
+	= academic collaboration
+	= versioning decomentation and research code
+	= open- source project contributions
+
+Initial Git Configuration:
+	git config  --global user.name "Your Name"
+	git config --global user.email " you@gmail.com"
+	verify config: git config --list
+
+
+
+
+
+
+ 
+
